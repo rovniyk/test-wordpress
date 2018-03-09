@@ -42,5 +42,6 @@ if (!empty($home_slider) && is_array($home_slider)) : ?>
 
         </div>
     </section>
+    <!-- Some worrds for test -->
 
 <?php endif; ?>
