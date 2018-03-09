@@ -13,7 +13,7 @@
 $our_partn = get_field('our_partners', "option");
 $partner_count = 1;
 ?>
-
+<!--  Test data for git  -->
 <footer>
     <h4 class="tittleBlock text-center"><?php the_field('footer_title', 'option'); ?></h4>     
     <div class="owl-carousel owl-theme logoList actSliderFooter">
