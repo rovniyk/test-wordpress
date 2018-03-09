@@ -88,6 +88,9 @@ $('.actSlider').owlCarousel({
     });
 
 
+    
+
+
 jQuery(function ($) {
   $('.play_button').click(function () {
     $('.video_container .poster').remove()
