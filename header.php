@@ -6,7 +6,7 @@
  *
  */
 ?>
-
+<!-- Header test text  -->
 <!DOCTYPE html>
 <html >
     <head>
